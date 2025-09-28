@@ -63,20 +63,35 @@ pip install -r requirements.txt
 
 
 {
+
     "python.analysis.typeCheckingMode": "off",
+    
     "python.analysis.autoImportCompletions": true,
+    
     "python.analysis.extraPaths": [".", "./typings"],
+    
     "python.languageServer": "Pylance",
+    
     "python.envFile": "${workspaceFolder}/.env",
+    
     "python.testing.pytestEnabled": true,
+    
     "python.testing.unittestEnabled": false,
+    
     "python.testing.nosetestsEnabled": false,
+    
     "python.testing.pytestArgs": [
+    
         "-v",
+        
         "-s",
+        
         "--alluredir=allure-results"
     ],
+    
+    
     "python-envs.defaultEnvManager": "ms-python.python:system",
+    
     "python-envs.pythonProjects": []
 
 }

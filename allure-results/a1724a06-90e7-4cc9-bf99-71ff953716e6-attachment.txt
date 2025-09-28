@@ -1,0 +1,92 @@
+Opening URL: https://practice-automation.com/popups/
+Waiting for page to load...
+Alert detected: Hi there, pal!
+Alert detected: OK or Cancel, which will it be?
+Error checking page ready state: Alert Text: OK or Cancel, which will it be?
+Message: unexpected alert open: {Alert text : OK or Cancel, which will it be?}
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0xc2c333+65459]
+	GetHandleVerifier [0x0xc2c374+65524]
+	(No symbol) [0x0xa4d973]
+	(No symbol) [0x0xa5b193]
+	(No symbol) [0x0xa60a56]
+	(No symbol) [0x0xa3cf26]
+	(No symbol) [0x0xa5a645]
+	(No symbol) [0x0xadb515]
+	(No symbol) [0x0xab9bf6]
+	(No symbol) [0x0xa8b38e]
+	(No symbol) [0x0xa8c274]
+	GetHandleVerifier [0x0xeaeda3+2697763]
+	GetHandleVerifier [0x0xea9ec7+2677575]
+	GetHandleVerifier [0x0xc54194+228884]
+	GetHandleVerifier [0x0xc449f8+165496]
+	GetHandleVerifier [0x0xc4b18d+192013]
+	GetHandleVerifier [0x0xc347d8+99416]
+	GetHandleVerifier [0x0xc34972+99826]
+	GetHandleVerifier [0x0xc1ebea+10346]
+	BaseThreadInitThunk [0x0x7570fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x7761809e+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7761806e+238]
+
+Alert detected: OK or Cancel, which will it be?
+Alert detected: OK or Cancel, which will it be?
+Error checking page ready state: Alert Text: Hi there, what's your name?
+Message: unexpected alert open: {Alert text : Hi there, what's your name?}
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0xc2c333+65459]
+	GetHandleVerifier [0x0xc2c374+65524]
+	(No symbol) [0x0xa4d973]
+	(No symbol) [0x0xa5b193]
+	(No symbol) [0x0xa60a56]
+	(No symbol) [0x0xa3cf26]
+	(No symbol) [0x0xa5a645]
+	(No symbol) [0x0xadb515]
+	(No symbol) [0x0xab9bf6]
+	(No symbol) [0x0xa8b38e]
+	(No symbol) [0x0xa8c274]
+	GetHandleVerifier [0x0xeaeda3+2697763]
+	GetHandleVerifier [0x0xea9ec7+2677575]
+	GetHandleVerifier [0x0xc54194+228884]
+	GetHandleVerifier [0x0xc449f8+165496]
+	GetHandleVerifier [0x0xc4b18d+192013]
+	GetHandleVerifier [0x0xc347d8+99416]
+	GetHandleVerifier [0x0xc34972+99826]
+	GetHandleVerifier [0x0xc1ebea+10346]
+	BaseThreadInitThunk [0x0x7570fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x7761809e+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7761806e+238]
+
+Alert detected: Hi there, what's your name?
+Alert detected: Hi there, what's your name?
+Error checking page ready state: Alert Text: Hi there, what's your name?
+Message: unexpected alert open: {Alert text : Hi there, what's your name?}
+  (Session info: chrome=140.0.7339.208)
+Stacktrace:
+	GetHandleVerifier [0x0xc2c333+65459]
+	GetHandleVerifier [0x0xc2c374+65524]
+	(No symbol) [0x0xa4d973]
+	(No symbol) [0x0xa5b193]
+	(No symbol) [0x0xa60a56]
+	(No symbol) [0x0xa3cf26]
+	(No symbol) [0x0xa5a645]
+	(No symbol) [0x0xadb515]
+	(No symbol) [0x0xab9bf6]
+	(No symbol) [0x0xa8b38e]
+	(No symbol) [0x0xa8c274]
+	GetHandleVerifier [0x0xeaeda3+2697763]
+	GetHandleVerifier [0x0xea9ec7+2677575]
+	GetHandleVerifier [0x0xc54194+228884]
+	GetHandleVerifier [0x0xc449f8+165496]
+	GetHandleVerifier [0x0xc4b18d+192013]
+	GetHandleVerifier [0x0xc347d8+99416]
+	GetHandleVerifier [0x0xc34972+99826]
+	GetHandleVerifier [0x0xc1ebea+10346]
+	BaseThreadInitThunk [0x0x7570fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x7761809e+286]
+	RtlGetAppContainerNamedObjectPath [0x0x7761806e+238]
+
+Alert detected: Hi there, what's your name?
+Alert detected: Hi there, pal!
+Page load timeout after 15 seconds, continuing...

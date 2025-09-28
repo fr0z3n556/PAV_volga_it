@@ -64,6 +64,8 @@ pip install -r requirements.txt
 
 {
 
+    {
+    
     "python.analysis.typeCheckingMode": "off",
     
     "python.analysis.autoImportCompletions": true,
@@ -93,6 +95,8 @@ pip install -r requirements.txt
     "python-envs.defaultEnvManager": "ms-python.python:system",
     
     "python-envs.pythonProjects": []
+
+    }
 
 }
 

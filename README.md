@@ -49,10 +49,7 @@ automation_project/
 
 ## ⚙️ Установка и настройка
 
-1. **Клонируйте репозиторий**
-
- git clone <repository-url>
-cd automation_project
+1. **Загрузите проект на свой ПК**
 
 2. **Установите зависимости**
 pip install -r requirements.txt

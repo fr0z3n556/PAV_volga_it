@@ -51,7 +51,7 @@ automation_project/
 
 1. **Клонируйте репозиторий**
 
-git clone <repository-url>
+ git clone <repository-url>
 cd automation_project
 
 2. **Установите зависимости**

@@ -61,6 +61,7 @@ pip install -r requirements.txt
 
 4. **Настройка settings.json**
 
+
 {
     "python.analysis.typeCheckingMode": "off",
     "python.analysis.autoImportCompletions": true,
@@ -77,6 +78,7 @@ pip install -r requirements.txt
     ],
     "python-envs.defaultEnvManager": "ms-python.python:system",
     "python-envs.pythonProjects": []
+
 }
 
 ## 🚀 Запуск тестов

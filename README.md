@@ -52,6 +52,7 @@ automation_project/
 1. **Загрузите проект на свой ПК**
 
 2. **Установите зависимости**
+
 pip install -r requirements.txt
 
 3. **Убедитесь, что установлен Chrome браузер**
